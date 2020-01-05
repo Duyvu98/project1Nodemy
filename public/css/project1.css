@@ -201,7 +201,7 @@ textarea.form-control {
     position: relative;
     width: 100%;
     overflow: hidden;
-    background: url(/public/image/trai-cho-meo-canh-azpet-shop.jpg)no-repeat center;
+    background: url(../image/trai-cho-meo-canh-azpet-shop.jpg)no-repeat center;
 }
 
 .banner video {
